@@ -1,0 +1,53 @@
+.row{
+    margin: 25px 0;
+}
+.box-1 {
+	background-color: palevioletred;
+	height: 55px;
+	color: white;
+}
+.box-2{
+    background-color: darkorchid;
+    height: 55px;
+    color: white;
+}
+.box-3 {
+	background-color: pink;
+	height: 55px;
+	color: white;
+}
+.box-4 {
+	background-color: lightcoral;
+	height: 55px;
+	color: white;
+}
+.box-5 {
+	background-color:magenta;
+	height: 55px;
+	color: white;
+}
+.box-6 {
+	background-color: skyblue;
+	height: 55px;
+	color: white;
+}
+.box-7 {
+	background-color: hotpink;
+	height: 55px;
+	color: white;
+}
+.box-8{
+	background-color: salmon;
+	height: 55px;
+	color: white;
+}
+.box-9{
+	background-color: maroon;
+	height: 55px;
+	color: white;
+}
+.box-10{
+	background-color: gold;
+	height: 55px;
+	color: white;
+}
